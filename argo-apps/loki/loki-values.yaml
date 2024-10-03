@@ -12,3 +12,5 @@ grafana:
     automated:
       prune: true
       selfHeal: true
+rbac:
+  create: true
